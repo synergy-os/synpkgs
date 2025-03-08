@@ -2,8 +2,8 @@
 %define datadir /usr/share
 
 Name:           bun
-Version:        1.2.2
-Release:        %autorelease
+Version: 1.2.4
+Release: 1%{?dist}
 Summary:        Javascript/Typescript toolkit
 
 License:        MIT
