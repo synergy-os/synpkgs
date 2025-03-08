@@ -5,8 +5,6 @@ on:
   schedule:
     # Runs at 12:00am UTC -> 5:00pm PDT
     - cron: '0 0 * * *'
-  
-  push:
 
 permissions:
   # Needs to write to this repo
