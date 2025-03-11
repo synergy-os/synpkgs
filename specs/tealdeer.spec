@@ -11,7 +11,7 @@ URL:            https://crates.io/crates/tealdeer
 Source:         %{crates_source}
 
 Patch:          tealdeer-fix-metadata.diff
- 
+
 BuildRequires:  cargo-rpm-macros >= 24
  
 %global _description %{expand:
