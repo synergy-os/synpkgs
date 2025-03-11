@@ -2,7 +2,7 @@
 %global crate tealdeer
 %define debug_package %{nil}
  
-Name:           tealdeer
+Name:           rust-tealdeer
 Version:        1.7.1
 Release:        %autorelease
 Summary:        Fetch and show tldr help pages for many CLI commands
