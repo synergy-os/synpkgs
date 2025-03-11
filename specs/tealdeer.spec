@@ -1,7 +1,7 @@
 %bcond check 1
 %global crate tealdeer
  
-Name:           rust-tealdeer
+Name:           tealdeer
 Version:        1.7.1
 Release:        %autorelease
 Summary:        Fetch and show tldr help pages for many CLI commands
