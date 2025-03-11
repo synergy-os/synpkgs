@@ -12,7 +12,7 @@ Source:         %{crates_source}
 
 Patch:          tealdeer-fix-metadata.diff
 
-BuildRequires:  cargo-rpm-macros >= 24
+BuildRequires:  cargo-rpm-macros
  
 %global _description %{expand:
 Fetch and show tldr help pages for many CLI commands. Full featured
