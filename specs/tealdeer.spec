@@ -1,5 +1,6 @@
 %bcond check 1
 %global crate tealdeer
+%define debug_package %{nil}
  
 Name:           tealdeer
 Version:        1.7.1
